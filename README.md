@@ -25,7 +25,7 @@ Configuration of development environment based on GULP build system
 1). Install node.js on your machine.
 
 2). Install gulp globally using just installed npm package manager 
-``
+```
 $ npm install gulp -g
 ```
 
