@@ -4,13 +4,13 @@
 
 2). Run command 
 ```
-npm install
+$ npm install
 ```
 in command prompt inside project folder. If you don't have npm and gulpe installed - go to my below instruction
 
 3). Run command 
 ```
-gulp
+$ gulp
 ```
 in command prompt inside project folder.
 
