@@ -1,5 +1,14 @@
-# dev-configuration
-Configuration of DEV environment based on GULP build system
+## How to launch repo
+
+1). Clone repository
+2). Run command **npm install** in command prompt inside project folder. If you don't have npm and gulpe installed - go to my below instruction
+3). Run command **gulp** in command prompt inside project folder.
+4). Open browser with URL **localhost:8080**
+5). Well done dude ! 
+
+
+## General information how to start working with gulp streaming build system
+Configuration of development environment based on GULP build system
 
 1). Install node.js on your machine.
 
